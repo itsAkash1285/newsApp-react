@@ -1,3 +1,7 @@
+![Screenshot (5)](https://github.com/itsAkash1285/newsApp-react/assets/111186744/7faaf945-3188-4029-ba93-a7f7d0a6badc)
+![Screenshot (6)](https://github.com/itsAkash1285/newsApp-react/assets/111186744/c5d894fb-40e6-4e22-8014-6aeea3158f74)
+![Screenshot (7)](https://github.com/itsAkash1285/newsApp-react/assets/111186744/bf7b3efa-a614-4f34-9275-a2efe4f16c68)
+![Screenshot (8)](https://github.com/itsAkash1285/newsApp-react/assets/111186744/89d18abf-361a-4fcf-9126-bb4c02c40e09)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
